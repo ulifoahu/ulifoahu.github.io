@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ulifoahu.github.io/sitemap_index.ulifoahu
